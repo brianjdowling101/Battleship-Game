@@ -15,3 +15,18 @@ table {
     border-collapse: collapse;
     margin: 0 auto;
 }
+
+td {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #000;
+}
+
+#controls {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#new-game {
+    margin-right: 10px;
+}
